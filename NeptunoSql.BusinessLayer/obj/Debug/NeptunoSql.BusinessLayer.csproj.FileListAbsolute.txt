@@ -1,0 +1,5 @@
+C:\Users\Matias\Desktop\Instituto\2º\Seminario de Programacion\Clase 23-09\NeptunoSql-master (1)\NeptunoSql-master\NeptunoSql.BusinessLayer\bin\Debug\NeptunoSql.BusinessLayer.dll
+C:\Users\Matias\Desktop\Instituto\2º\Seminario de Programacion\Clase 23-09\NeptunoSql-master (1)\NeptunoSql-master\NeptunoSql.BusinessLayer\bin\Debug\NeptunoSql.BusinessLayer.pdb
+C:\Users\Matias\Desktop\Instituto\2º\Seminario de Programacion\Clase 23-09\NeptunoSql-master (1)\NeptunoSql-master\NeptunoSql.BusinessLayer\obj\Debug\NeptunoSql.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Instituto\2º\Seminario de Programacion\Clase 23-09\NeptunoSql-master (1)\NeptunoSql-master\NeptunoSql.BusinessLayer\obj\Debug\NeptunoSql.BusinessLayer.dll
+C:\Users\Matias\Desktop\Instituto\2º\Seminario de Programacion\Clase 23-09\NeptunoSql-master (1)\NeptunoSql-master\NeptunoSql.BusinessLayer\obj\Debug\NeptunoSql.BusinessLayer.pdb
